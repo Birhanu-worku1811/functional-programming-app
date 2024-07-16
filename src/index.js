@@ -14,7 +14,7 @@ const removeItemEvent = {
 
 const userLoginEvent = {
     type: 'USER_LOGIN',
-    payload: { id: 1, name: 'John Doe' }
+    payload: { id: 1, name: ' Birhanu Worku' }
 };
 
 const userLogoutEvent = {
